@@ -11,7 +11,18 @@ git clone https://github.com/sheridan-stable/from-fisher-to-tfidf.git
 and `cd` into the repository root folder `from-fisher-to-tfidf`.
 
 ## Running Repository Code
-Repository code is written in Python 3.
+Repository code is written in Python 3. Below is one way to replicate the results in the paper:
+
+From the command line, create a virtual environment:
+```
+python3 -m venv .
+source bin/activate
+pip install -r requirements.txt
+```
+Run the main script:
+```
+python3 main.py
+```
 
 ## Questions
 Feel free to raise an [issue](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/issues) or start a [discussion](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/discussions).

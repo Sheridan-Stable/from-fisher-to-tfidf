@@ -14,7 +14,7 @@ and `cd` into the repository root folder `from-fisher-to-tfidf`.
 Repository code is written in Python 3.
 
 ## Questions
-
+Feel free to raise an [issue](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/issues) or start a [discussion](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/discussions).
 
 ## Citation
 If you find anything useful please cite our work using:

@@ -13,6 +13,9 @@ and `cd` into the repository root folder `from-fisher-to-tfidf`.
 ## Running Repository Code
 Repository code is written in Python 3.
 
+## Questions
+
+
 ## Citation
 If you find anything useful please cite our work using:
 ```

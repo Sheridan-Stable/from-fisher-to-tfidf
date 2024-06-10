@@ -11,7 +11,7 @@ git clone https://github.com/sheridan-stable/from-fisher-to-tfidf.git
 and `cd` into the repository root folder `from-fisher-to-tfidf`.
 
 ## Running Repository Code
-Repository code is written in Python 3. Below is one way to replicate the results in the paper:
+Repository code is written in Python 3 in a Jupyter Notebook environment. Below is one way to run the Jupyter Notebook:
 
 From the command line, create a virtual environment:
 ```
@@ -19,10 +19,19 @@ python3 -m venv .
 source bin/activate
 pip install -r requirements.txt
 ```
-Run the main script:
+Launch a Jupyter Notebook server in your default web browser:
 ```
-python3 main.py
+jupyter notebook
 ```
+and open a Jupyter notebook of interest.
+
+Remember to close the virtual environment once you are done:
+```
+deactivate
+```
+
+## Numerical Experiments
+Run the `numerical-experiments.ipynb` notebook to reproduce the results in Table 3 from the manuscript.
 
 ## Questions
 Feel free to raise an [issue](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/issues) or start a [discussion](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/discussions).

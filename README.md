@@ -23,18 +23,17 @@ Launch a Jupyter Notebook server in your default web browser:
 ```
 jupyter notebook
 ```
-and open a Jupyter notebook of interest.
+Open and run the `numerical-experiments.ipynb` notebook to reproduce the results from Table 3 in the manuscript.
 
 Remember to close the virtual environment once you are done:
 ```
 deactivate
 ```
 
-## Numerical Experiments
-Run the `numerical-experiments.ipynb` notebook to reproduce the results in Table 3 from the manuscript.
+## Questions and Feedback
+If you have a technical question about the manuscript, feel free to post it as an [issue](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/issues).
 
-## Questions
-Feel free to raise an [issue](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/issues) or start a [discussion](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/discussions).
+For more open-ended inquiries, we encourage starting a [discussion](https://github.com/Sheridan-Stable/from-fisher-to-tfidf/discussions).
 
 ## Citation
 If you find anything useful please cite our work using:

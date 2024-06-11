@@ -17,6 +17,9 @@ From the command line, create a virtual environment:
 ```
 python3 -m venv .
 source bin/activate
+```
+Install required libraries:
+```
 pip install -r requirements.txt
 ```
 Launch a Jupyter Notebook server in your default web browser:

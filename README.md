@@ -1,6 +1,6 @@
 # A Fisher's exact test interpretation of the TF–IDF term-weighting scheme
 
-This repository contains computer code for reproducing the results described in the manuscript “A Fisher's exact test interpretation of the TF–IDF term-weighting scheme”. ArXiv preprint link: https://arxiv.org/abs/XXXX.XXXXX
+This repository contains computer code for reproducing the results described in the manuscript “A Fisher's exact test justification of the TF–IDF term-weighting scheme”. Journal link: https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2539241 ArXiv preprint link: https://www.arxiv.org/abs/2507.15742
 
 ## Getting Started
 
@@ -41,10 +41,12 @@ For more open-ended inquiries, we encourage starting a [discussion](https://gith
 ## Citation
 If you find anything useful please cite our work using:
 ```
-@misc{Sheridan2024,
+@article{Sheridan2025,
   author = {Paul Sheridan and Zeyad Ahmed and Aitazaz A. Farooque},
-  title = {A Fisher's exact test interpretation of the TF–IDF term-weighting scheme},
-  year = {2024},
-  eprint = {arXiv:XXXX.XXXXX}
+  title = {A {F}isher’s exact test justification of the {TF}–{IDF} term-weighting scheme},
+  journal = {The American Statistician},
+  year = {2025},
+  pages = {1--24},
+  doi = {https://doi.org/10.1080/00031305.2025.2539241}
 }
 ```

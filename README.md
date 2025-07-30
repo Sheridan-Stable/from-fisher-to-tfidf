@@ -1,4 +1,4 @@
-# A Fisher's exact test interpretation of the TF–IDF term-weighting scheme
+# A Fisher's exact test justification of the TF–IDF term-weighting scheme
 
 This repository contains computer code for reproducing the results numerical described in the manuscript “A Fisher's exact test justification of the TF–IDF term-weighting scheme”.
 

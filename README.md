@@ -50,7 +50,7 @@ If you find anything useful please cite our work using:
   title = {A {F}isher’s exact test justification of the {TF}–{IDF} term-weighting scheme},
   journal = {The American Statistician},
   year = {2025},
-  pages = {1--24},
+  pages = {1--11},
   doi = {https://doi.org/10.1080/00031305.2025.2539241}
 }
 ```
